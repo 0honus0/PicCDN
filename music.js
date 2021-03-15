@@ -1,0 +1,1 @@
+<meting-js fixed="true" lrc-type="1" <?php $this->options->music(); ?>></meting-js>
