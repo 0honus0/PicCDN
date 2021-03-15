@@ -1,1 +1,1 @@
-<meting-js fixed="true" lrc-type="1" <?php $this->options->music(); ?>></meting-js>
+name="test" artist="rainymood" url="https://sharelist.honus.top/honus/music/A%20Fine%20Frenzy%20-%20Almost%20Lover.MP3"
