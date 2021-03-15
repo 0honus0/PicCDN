@@ -1,5 +1,5 @@
 lrcType: 3,
-audio: [{
+    audio: [{
         name: 'name1',
         artist: 'artist1',
         url: 'https://sharelist.honus.top/honus/music/A%20Fine%20Frenzy%20-%20Almost%20Lover.MP3',
