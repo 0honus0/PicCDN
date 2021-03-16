@@ -175,13 +175,6 @@ lrcType: 3,
         lrc: "https://sharelist.honus.top/honus/music/lrc/Conor%20Maynard%20Alex%20Aiono%20The%20Chainsmokers%20Halsey%20-%20Closer%20%28Conor%20Maynard%20Cover%29.lrc"
         },
         {
-        name: "BINGBIAN病变",
-        artist: "Cubi 多多Aydos",
-        url: "https://sharelist.honus.top/honus/music/song/Cubi%20%E5%A4%9A%E5%A4%9AAydos%20-%20BINGBIAN%E7%97%85%E5%8F%98%EF%BC%88prod.jurrivh%EF%BC%89.MP3",
-        cover: "https://sharelist.honus.top/honus/music/image/Cubi%20%E5%A4%9A%E5%A4%9AAydos%20-%20BINGBIAN%E7%97%85%E5%8F%98%EF%BC%88prodjurrivh%EF%BC%89.jpg",
-        lrc: "https://sharelist.honus.top/honus/music/lrc/Cubi%20%E5%A4%9A%E5%A4%9AAydos%20-%20BINGBIAN%E7%97%85%E5%8F%98%EF%BC%88prodjurrivh%EF%BC%89.lrc"
-        },
-        {
         name: "Take me hand",
         artist: "DAISHI DANCE Cecile Corbel",
         url: "https://sharelist.honus.top/honus/music/song/DAISHI%20DANCE%20Cecile%20Corbel%20-%20Take%20me%20hand.FLAC",
