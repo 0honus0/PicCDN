@@ -28,13 +28,6 @@ lrcType: 3,
         lrc: "https://sharelist.honus.top/honus/music/lrc/Alan%20Walker%20Sabrina%20Carpenter%20Farruko%20-%20On%20My%20Way.lrc"
         },
         {
-        name: "Let Me Down Slowly",
-        artist: "Alec Benjamin",
-        url: "https://sharelist.honus.top/honus/music/song/Alec%20Benjamin%20-%20Let%20Me%20Down%20Slowly.mp3",
-        cover: "https://sharelist.honus.top/honus/music/image/Alec%20Benjamin%20-%20Let%20Me%20Down%20Slowly.jpg",
-        lrc: "https://sharelist.honus.top/honus/music/lrc/Alec%20Benjamin%20-%20Let%20Me%20Down%20Slowly.lrc"
-        },
-        {
         name: "Outrunning Karma",
         artist: "Alec Benjamin",
         url: "https://sharelist.honus.top/honus/music/song/Alec%20Benjamin%20-%20Outrunning%20Karma.mp3",
