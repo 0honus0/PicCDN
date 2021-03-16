@@ -532,9 +532,9 @@ lrcType: 3,
         lrc: "https://sharelist.honus.top/honus/music/lrc/The%20Spacies%20-%20Hesitate.lrc"
         },
         {
-        name: "☆THE",
+        name: "无冕之王",
         artist: "OST",
-        url: "https://sharelist.honus.top/honus/music/song/THEA-OST%20-%20%E2%98%86THEA%E2%98%85%E6%97%A0%E5%86%95%E4%B9%8B%E7%8E%8B%EF%BC%88%E5%A4%AA%E9%9A%BE%E7%9B%B8%E5%A4%84%E6%9C%B4%E7%81%BF%E7%83%88%E4%B8%BB%E9%A2%98%E6%9B%B2%EF%BC%89%EF%BC%88Cover%20%E6%9C%B4%E6%99%BA%E6%95%8F%EF%BC%89.MP3",
+        url: "https://sharelist.honus.top/honus/music/song/THE.A-OST%20-%20%E2%98%86THE.A%E2%98%85%E6%97%A0%E5%86%95%E4%B9%8B%E7%8E%8B%EF%BC%88%E5%A4%AA%E9%9A%BE%E7%9B%B8%E5%A4%84%E6%9C%B4%E7%81%BF%E7%83%88%E4%B8%BB%E9%A2%98%E6%9B%B2%EF%BC%89%EF%BC%88Cover%20%E6%9C%B4%E6%99%BA%E6%95%8F%EF%BC%89.MP3",
         cover: "https://sharelist.honus.top/honus/music/image/THEA-OST%20-%20%E2%98%86THEA%E2%98%85%E6%97%A0%E5%86%95%E4%B9%8B%E7%8E%8B%EF%BC%88%E5%A4%AA%E9%9A%BE%E7%9B%B8%E5%A4%84%E6%9C%B4%E7%81%BF%E7%83%88%E4%B8%BB%E9%A2%98%E6%9B%B2%EF%BC%89%EF%BC%88Cover%20%E6%9C%B4%E6%99%BA%E6%95%8F%EF%BC%89.jpg",
         lrc: "https://sharelist.honus.top/honus/music/lrc/THEA-OST%20-%20%E2%98%86THEA%E2%98%85%E6%97%A0%E5%86%95%E4%B9%8B%E7%8E%8B%EF%BC%88%E5%A4%AA%E9%9A%BE%E7%9B%B8%E5%A4%84%E6%9C%B4%E7%81%BF%E7%83%88%E4%B8%BB%E9%A2%98%E6%9B%B2%EF%BC%89%EF%BC%88Cover%20%E6%9C%B4%E6%99%BA%E6%95%8F%EF%BC%89.lrc"
         },
@@ -607,13 +607,6 @@ lrcType: 3,
         url: "https://sharelist.honus.top/honus/music/song/%E4%B8%8D%E6%89%8D%20-%20%E5%8F%82%E5%95%86%28%E7%BA%AF%E6%AD%8C%E7%89%88%29.MP3",
         cover: "https://sharelist.honus.top/honus/music/image/%E4%B8%8D%E6%89%8D%20-%20%E5%8F%82%E5%95%86%28%E7%BA%AF%E6%AD%8C%E7%89%88%29.jpg",
         lrc: "https://sharelist.honus.top/honus/music/lrc/%E4%B8%8D%E6%89%8D%20-%20%E5%8F%82%E5%95%86%28%E7%BA%AF%E6%AD%8C%E7%89%88%29.lrc"
-        },
-        {
-        name: "起风了",
-        artist: "买辣椒也用券",
-        url: "https://sharelist.honus.top/honus/music/song/%E4%B9%B0%E8%BE%A3%E6%A4%92%E4%B9%9F%E7%94%A8%E5%88%B8%20-%20%E8%B5%B7%E9%A3%8E%E4%BA%86.mp3",
-        cover: "https://sharelist.honus.top/honus/music/image/%E4%B9%B0%E8%BE%A3%E6%A4%92%E4%B9%9F%E7%94%A8%E5%88%B8%20-%20%E8%B5%B7%E9%A3%8E%E4%BA%86.jpg",
-        lrc: "https://sharelist.honus.top/honus/music/lrc/%E4%B9%B0%E8%BE%A3%E6%A4%92%E4%B9%9F%E7%94%A8%E5%88%B8%20-%20%E8%B5%B7%E9%A3%8E%E4%BA%86.lrc"
         },
         {
         name: "鸿崖之末 （钟无艳填词）",
