@@ -223,15 +223,15 @@ lrcType: 3,
         },
         {
         name: "G.E.M.邓紫棋 - 光年之外.flac",
-        url: "https://sharelist.honus.top/honus/music/song/GEM%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E5%85%89%E5%B9%B4%E4%B9%8B%E5%A4%96.flac",
-        cover: "https://sharelist.honus.top/honus/music/image/GEM%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E5%85%89%E5%B9%B4%E4%B9%8B%E5%A4%96.jpg",
-        lrc: "https://sharelist.honus.top/honus/music/lrc/GEM%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E5%85%89%E5%B9%B4%E4%B9%8B%E5%A4%96.lrc"
+        url: "https://sharelist.honus.top/honus/music/song/G.E.M%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E5%85%89%E5%B9%B4%E4%B9%8B%E5%A4%96.flac",
+        cover: "https://sharelist.honus.top/honus/music/image/G.E.M%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E5%85%89%E5%B9%B4%E4%B9%8B%E5%A4%96.jpg",
+        lrc: "https://sharelist.honus.top/honus/music/lrc/G.E.M%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E5%85%89%E5%B9%B4%E4%B9%8B%E5%A4%96.lrc"
         },
         {
         name: "G.E.M.邓紫棋 - 来自天堂的魔鬼.flac",
-        url: "https://sharelist.honus.top/honus/music/song/GEM%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E6%9D%A5%E8%87%AA%E5%A4%A9%E5%A0%82%E7%9A%84%E9%AD%94%E9%AC%BC.flac",
-        cover: "https://sharelist.honus.top/honus/music/image/GEM%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E6%9D%A5%E8%87%AA%E5%A4%A9%E5%A0%82%E7%9A%84%E9%AD%94%E9%AC%BC.jpg",
-        lrc: "https://sharelist.honus.top/honus/music/lrc/GEM%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E6%9D%A5%E8%87%AA%E5%A4%A9%E5%A0%82%E7%9A%84%E9%AD%94%E9%AC%BC.lrc"
+        url: "https://sharelist.honus.top/honus/music/song/G.E.M%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E6%9D%A5%E8%87%AA%E5%A4%A9%E5%A0%82%E7%9A%84%E9%AD%94%E9%AC%BC.flac",
+        cover: "https://sharelist.honus.top/honus/music/image/G.E.M%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E6%9D%A5%E8%87%AA%E5%A4%A9%E5%A0%82%E7%9A%84%E9%AD%94%E9%AC%BC.jpg",
+        lrc: "https://sharelist.honus.top/honus/music/lrc/G.E.M%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E6%9D%A5%E8%87%AA%E5%A4%A9%E5%A0%82%E7%9A%84%E9%AD%94%E9%AC%BC.lrc"
         },
         {
         name: "Gareth Gates - Anyone Of Us (Stupid Mistake).mp3",
