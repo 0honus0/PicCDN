@@ -1358,20 +1358,6 @@ lrcType: 3,
         lrc: "https://sharelist.honus.top/honus/music/lrc/%E9%99%88%E5%A7%BF%E5%BD%A4%20-%20%E6%88%98%E4%BA%89%E4%B8%96%E7%95%8C.lrc"
         },
         {
-        name: "易燃易爆炸",
-        artist: "陈粒",
-        url: "https://sharelist.honus.top/honus/music/song/%E9%99%88%E7%B2%92%20-%20%E6%98%93%E7%87%83%E6%98%93%E7%88%86%E7%82%B8.flac",
-        cover: "https://sharelist.honus.top/honus/music/image/%E9%99%88%E7%B2%92%20-%20%E6%98%93%E7%87%83%E6%98%93%E7%88%86%E7%82%B8.jpg",
-        lrc: "https://sharelist.honus.top/honus/music/lrc/%E9%99%88%E7%B2%92%20-%20%E6%98%93%E7%87%83%E6%98%93%E7%88%86%E7%82%B8.lrc"
-        },
-        {
-        name: "爱你",
-        artist: "陈芳语",
-        url: "https://sharelist.honus.top/honus/music/song/%E9%99%88%E8%8A%B3%E8%AF%AD%20-%20%E7%88%B1%E4%BD%A0.MP3",
-        cover: "https://sharelist.honus.top/honus/music/image/%E9%99%88%E8%8A%B3%E8%AF%AD%20-%20%E7%88%B1%E4%BD%A0.jpg",
-        lrc: "https://sharelist.honus.top/honus/music/lrc/%E9%99%88%E8%8A%B3%E8%AF%AD%20-%20%E7%88%B1%E4%BD%A0.lrc"
-        },
-        {
         name: "故梦 双声道 陵易 双笙（Cover 橙翼）",
         artist: "陵易_Line 双笙",
         url: "https://sharelist.honus.top/honus/music/song/%E9%99%B5%E6%98%93_Line%20%E5%8F%8C%E7%AC%99%20-%20%E6%95%85%E6%A2%A6%C2%A0%E5%8F%8C%E5%A3%B0%E9%81%93%C2%A0%E9%99%B5%E6%98%93%20%E5%8F%8C%E7%AC%99%EF%BC%88Cover%20%E6%A9%99%E7%BF%BC%EF%BC%89.MP3",
