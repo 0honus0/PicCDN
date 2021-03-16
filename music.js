@@ -1472,7 +1472,7 @@ lrcType: 3,
         {
         name: "Attention Acoustic ver",
         artist: "黑崎子",
-        url: "https://sharelist.honus.top/honus/music/song/%E9%BB%91%E5%B4%8E%E5%AD%90%20-%20Attention%28Acoustic%20ver%29%EF%BC%88Cover%20Charlie%20Puth%EF%BC%89.mp3",
-        cover: "https://sharelist.honus.top/honus/music/image/%E9%BB%91%E5%B4%8E%E5%AD%90%20-%20Attention%28Acoustic%20ver%29%EF%BC%88Cover%20Charlie%20Puth%EF%BC%89.jpg",
-        lrc: "https://sharelist.honus.top/honus/music/lrc/%E9%BB%91%E5%B4%8E%E5%AD%90%20-%20Attention%28Acoustic%20ver%29%EF%BC%88Cover%20Charlie%20Puth%EF%BC%89.lrc"
+        url: "https://sharelist.honus.top/honus/music/song/%E9%BB%91%E5%B4%8E%E5%AD%90%20-%20Attention(Acoustic%20ver.)%EF%BC%88Cover%20Charlie%20Puth%EF%BC%89.mp3",
+        cover: "https://sharelist.honus.top/honus/music/image/%E9%BB%91%E5%B4%8E%E5%AD%90%20-%20Attention(Acoustic%20ver.)%EF%BC%88Cover%20Charlie%20Puth%EF%BC%89.jpg",
+        lrc: "https://sharelist.honus.top/honus/music/lrc/%E9%BB%91%E5%B4%8E%E5%AD%90%20-%20Attention(Acoustic%20ver.)%EF%BC%88Cover%20Charlie%20Puth%EF%BC%89.lrc"
         }]
