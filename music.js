@@ -3,7 +3,7 @@ div.id='player'
 document.body.appendChild(div)
 const ap=new Aplayer({
     container: document.getElementById('player'),
-    fixed:true,
+    fixed: true,
     lrcType: 3,
     audio: [{
         name: "Almost Lover",
@@ -1447,4 +1447,4 @@ const ap=new Aplayer({
         cover: "https://sharelist.honus.top/honus/music/image/%E9%BB%91%E5%B4%8E%E5%AD%90%20-%20Attention(Acoustic%20ver)%EF%BC%88Cover%20Charlie%20Puth%EF%BC%89.jpg",
         lrc: "https://sharelist.honus.top/honus/music/lrc/%E9%BB%91%E5%B4%8E%E5%AD%90%20-%20Attention(Acoustic%20ver)%EF%BC%88Cover%20Charlie%20Puth%EF%BC%89.lrc"
         }]
-    })
+})
