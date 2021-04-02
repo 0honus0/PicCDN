@@ -1,4 +1,4 @@
-let dic=document.creatElement('player')
+let div=document.creatElement('player')
 div.id='player'
 document.body.appendChild(div)
 const ap=new Aplayer({
