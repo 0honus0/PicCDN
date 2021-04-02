@@ -1,4 +1,10 @@
-lrcType: 3,
+let dic=document.creatElement('player')
+div.id='player'
+document.body.appendChild(div)
+const ap=new Aplayer({
+    container: document.getElementById('player'),
+    fixed:true,
+    lrcType: 3,
     audio: [{
         name: "Almost Lover",
         artist: "A Fine Frenzy",
