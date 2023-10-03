@@ -215,9 +215,9 @@ if __name__ == "__main__":
         else:
             set_panel_username()
     elif method == 'password':
-        show_panel_pwd()
         if len(sys.argv) > 2:
             set_panel_pwd(sys.argv[2])
+        show_panel_pwd()
     elif method == 'getServerIp':
         getServerIp()
     elif method == "cli":
