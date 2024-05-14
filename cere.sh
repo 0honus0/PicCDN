@@ -6,5 +6,5 @@ echo ' export PATH=$PATH:/usr/local/go/bin:~/go/bin' >> ~/.bashrc
 git clone https://github.com/QuilibriumNetwork/ceremonyclient
 cd ceremonyclient/node
 chmod +x poor_mans_cd.sh
-sed -i  "1iexport PATH=$PATH:/usr/local/go/bin:~/go/bin" 
+sed -i  "1iexport PATH=$PATH:/usr/local/go/bin:~/go/bin" poor_mans_cd.sh
 screen -dmS quli  bash -c './poor_mans_cd.sh; exec bash'
