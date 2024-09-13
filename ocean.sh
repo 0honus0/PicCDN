@@ -24,6 +24,7 @@ do
   PRIVATE_KEY=$(head -c 32 /dev/urandom | xxd -p | tr -d '\n' | awk '{print "0x" $0}')
   sed -i "s/M_PRIVATE_KEY/$PRIVATE_KEY/g" ./docker-compose.yml
 
+  docker-compose down
   docker-compose up -d
 done
 
