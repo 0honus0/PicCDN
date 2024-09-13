@@ -26,3 +26,7 @@ services:
       P2P_ipV6BindWsPort: 'M_PORT5'
       P2P_ANNOUNCE_ADDRESSES: '["/ip4/M_IP/tcp/M_PORT2", "/ip4/M_IP/ws/tcp/M_PORT3"]'
     network_mode: "host"
+
+volumes:
+  typesense-data:
+    driver: local
